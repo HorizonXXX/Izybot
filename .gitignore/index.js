@@ -8,7 +8,7 @@ const queue = new Map();
 
 var servers = {};
 
-client.login("NTA3OTgzNjc2MjQ4OTQ4NzU4.Dr-aKQ.n2iF0rY5Gb7T-InrMQjp7HOmqKY");
+client.login("");
 
 
 client.on("ready", () => {
